@@ -85,15 +85,15 @@ const Footer = () => {
 							Information
 						</h3>
 						<div className='space-y-3 text-sm text-gray-300'>
-							<div className='flex items-center gap-2'>
+							<Link href='/about' className='flex items-center gap-2 hover:text-white transition-colors duration-200'>
 								<span>Why Choose Us?</span>
-							</div>
-							<div className='flex items-center gap-2'>
+							</Link>
+							<Link href='/properties' className='flex items-center gap-2 hover:text-white transition-colors duration-200'>
 								<span>Emerald</span>
-							</div>
-							<div className='flex items-start gap-2'>
+							</Link>
+							<Link href='/properties' className='flex items-start gap-2 hover:text-white transition-colors duration-200'>
 								<span>Oak West</span>
-							</div>
+							</Link>
 						</div>
 					</div>
 				</div>

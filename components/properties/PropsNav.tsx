@@ -156,6 +156,18 @@ const PropsNav = () => {
 					</button>
 					<button
 						type='button'
+						onClick={() => setActiveProperty("b1")}
+						className={`flex-1 min-w-[100px] px-3 sm:px-4 py-3 sm:py-4 rounded-md text-xs sm:text-sm lg:text-base font-medium transition-all duration-300 cursor-pointer touch-manipulation whitespace-nowrap ${
+							activeProperty === "b1"
+								? "bg-gray-900 text-white shadow-md"
+								: "text-gray-600 hover:text-gray-800 hover:bg-gray-50 active:bg-gray-200"
+						}`}
+						style={{ WebkitTapHighlightColor: "transparent" }}
+					>
+						Oak Rise
+					</button>
+					<button
+						type='button'
 						onClick={() => setActiveProperty("oak")}
 						className={`flex-1 min-w-[100px] px-3 sm:px-4 py-3 sm:py-4 rounded-md text-xs sm:text-sm lg:text-base font-medium transition-all duration-300 cursor-pointer touch-manipulation whitespace-nowrap ${
 							activeProperty === "oak"
@@ -189,18 +201,6 @@ const PropsNav = () => {
 						style={{ WebkitTapHighlightColor: "transparent" }}
 					>
 						Aria Park
-					</button>
-					<button
-						type='button'
-						onClick={() => setActiveProperty("b1")}
-						className={`flex-1 min-w-[100px] px-3 sm:px-4 py-3 sm:py-4 rounded-md text-xs sm:text-sm lg:text-base font-medium transition-all duration-300 cursor-pointer touch-manipulation whitespace-nowrap ${
-							activeProperty === "b1"
-								? "bg-gray-900 text-white shadow-md"
-								: "text-gray-600 hover:text-gray-800 hover:bg-gray-50 active:bg-gray-200"
-						}`}
-						style={{ WebkitTapHighlightColor: "transparent" }}
-					>
-						Oak Rise
 					</button>
 					<button
 						type='button'

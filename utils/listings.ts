@@ -172,7 +172,7 @@ export const aria = [
 		title: "Aria Park 5 Bedroom Villa",
 		mainImg: a1,
 		flyer: a2,
-		photos: [a3, a4, a5, a6, nm1, nm2, nm3, nm4],
+		photos: [a3, a4, a5, a6],
 		desc: `Welcome to ARIA PARK.  A distinguished development discreetly nestled in the leafy 
 surburbs of Karen, Nairobi.  The address where  sophistication effortlessly meets with the 
 splendor of nature.`,
@@ -374,11 +374,11 @@ export const brooksideForestOne = [
 		id: "forest-one-residency",
 		title: "Forest One Residency",
 		mainImg: bf1,
-		photos: [bf2, bf3, bf4, bf5],
+		photos: [bf2, bf3, bf4, bf5, b1, b2, b3, b4, b5],
 		desc: `Forest One Residency embodies a design philosophy centered on luxury, functionality, and distinction. Our approach merges modern aesthetics with practical elegance, ensuring our residence offers a harmonious blend of style and comfort. With its prime location, high rental demand, and contemporary amenities, this apartment is an ideal choice for savvy investors looking to expand their portfolio. 
 Expected Completion: September 2028. Flexible Off-Plan Payment Plans Available. Secure Your Unit with a 20% Deposit.`,
 		location: "Westlands, Nairobi, Kenya",
-		avgPrice: "From 9.7M KSH ($74,615)",
+		avgPrice: "From 9.7M KSH ($75,000)",
 		highlights: [
 			"Fully equipped gymnasium",
 			"Heated swimming pool",
@@ -391,35 +391,35 @@ Expected Completion: September 2028. Flexible Off-Plan Payment Plans Available. 
 				type: "1 Bedroom (Type D)",
 				floor: "1st-20th Floor",
 				size: "76 SQM",
-				price: "9,700,000 KSH",
+				price: "9,700,000 KSH ($75,000)",
 				desc: "Value 1 Bed",
 			},
 			{
 				type: "1 Bedroom (Type B)",
 				floor: "1st-20th Floor",
 				size: "79 SQM",
-				price: "10,000,000 KSH",
+				price: "10,000,000 KSH ($78,000)",
 				desc: "Compact 1 Bed",
 			},
 			{
 				type: "1 Bedroom (Type C)",
 				floor: "1st-20th Floor",
 				size: "81 SQM",
-				price: "10,300,000 KSH",
+				price: "10,300,000 KSH ($80,000)",
 				desc: "Standard 1 Bed",
 			},
 			{
 				type: "2 Bedroom All En-suite (Type E)",
 				floor: "1st-20th Floor",
 				size: "120 SQM",
-				price: "15,200,000 KSH ($116,923)",
+				price: "15,200,000 KSH ($118,000)",
 				desc: "Luxury 2 Bed",
 			},
 			{
 				type: "3 Bedroom All En-suite + SQ (Type A)",
 				floor: "1st-20th Floor",
 				size: "179 SQM",
-				price: "22,700,000 KSH ($174,615)",
+				price: "22,700,000 KSH ($176,000)",
 				desc: "Spacious 3 bed with SQ",
 			},
 		],
@@ -432,9 +432,31 @@ export const oakRise = [
 		title: "Oak Rise",
 		mainImg: orcover,
 		photos: [orcover2, ordetails, or1, or2, or3, or4, orp1, orp2, orp3, orp4, orp5, orpx, orn1, orn2, orn3, orn4, orn5, orn6],
-		desc: `Oak Rise, one more upcoming masterpiece project in Nairobi real estate development industry after Riverside One and Rhapta One. Offering premium living spaces with top-tier amenities.`,
+		desc: `Oak Rise Residency is the latest signature development by The Oak Residences. Located on General Mathenge Drive, Westlands, within the "UN Blue Zone", it offers a high level of security and peace of mind. Backed by Karura Forest, and just 700 meters from Sarit Centre and Westgate Mall. 24 Residential floors within a 26-storey development.
+
+Amenities:
+✅ Gym & Fitness Center
+✅ Co-working Space
+✅ Mini Mart
+✅ Kids' Play Area
+✅ Restaurants & Cafe
+✅ Games Room
+✅ Spa & Sauna
+✅ Cinema
+✅ Residents' Lounge
+✅ Laundry Room
+✅ Changing Rooms
+✅ Reception
+✅ Outdoor Heated Swimming Pool
+✅ Zen Garden (Landscaped Garden)
+✅ Jogging Track
+✅ Sky Lounge
+✅ Padel Court
+
+1 & 2 Bedroom Apartments
+Secure your unit with a 20% deposit.`,
 		location: "Westlands, Nairobi, Kenya",
-		avgPrice: "From 6.8M KSH ($52,300)",
+		avgPrice: "From 6.8M KSH ($53,000)",
 		highlights: [
 			"Entrance hall with reception",
 			"Club House",
@@ -447,49 +469,49 @@ export const oakRise = [
 			{
 				type: "Mini 1 Bedroom",
 				size: "45 SQM",
-				price: "6.8M KSH ($53k)",
+				price: "6.8M KSH ($53,000)",
 				desc: "Compact and efficient living",
 			},
 			{
 				type: "Mini 1 Bedroom B",
 				size: "49 SQM",
-				price: "7.3M KSH ($57k)",
+				price: "7.3M KSH ($57,000)",
 				desc: "Smart layout with optimal space",
 			},
 			{
 				type: "1 Bedroom B",
 				size: "60 SQM",
-				price: "7.8M KSH ($60k)",
+				price: "7.8M KSH ($60,000)",
 				desc: "Standard 1 bedroom apartment",
 			},
 			{
 				type: "1 Bedroom A",
 				size: "66 SQM",
-				price: "8.8M KSH ($68k)",
+				price: "8.8M KSH ($68,000)",
 				desc: "Spacious 1 bedroom design",
 			},
 			{
 				type: "2 Bedroom Small",
 				size: "81 SQM",
-				price: "10.8M KSH ($84k)",
+				price: "10.8M KSH ($84,000)",
 				desc: "Cosy 2 bedroom layout",
 			},
 			{
 				type: "2 Bedroom B",
 				size: "91 SQM",
-				price: "11.8M KSH ($91k)",
+				price: "11.8M KSH ($91,000)",
 				desc: "Standard 2 bedroom apartment",
 			},
 			{
 				type: "2 Bedroom A",
 				size: "98 SQM",
-				price: "12.8M KSH ($99k)",
+				price: "12.8M KSH ($99,000)",
 				desc: "Generous 2 bedroom space",
 			},
 			{
 				type: "2 Bedroom All En-Suite",
 				size: "113 SQM",
-				price: "14.8M KSH ($115k)",
+				price: "14.8M KSH ($115,000)",
 				desc: "Premium 2 bedroom with en-suite bathrooms",
 			},
 		],
