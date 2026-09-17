@@ -78,6 +78,7 @@ import {
 	orn4,
 	orn5,
 	orn6,
+	fn1, fn2, fn3, fn4, fn5, fn6, fn7, fn8, fn9, fn10, fn11, fn12, fn13, fn14, fn15, fn16, fn17, fn18, fn19, fn20, fn21, fn22,
 } from "../assets";
 
 export const featured = [
@@ -374,7 +375,7 @@ export const brooksideForestOne = [
 		id: "forest-one-residency",
 		title: "Forest One Residency",
 		mainImg: bf1,
-		photos: [bf2, bf3, bf4, bf5, b1, b2, b3, b4, b5],
+		photos: [bf2, bf3, bf4, bf5, b1, b2, b3, b4, b5, fn1, fn2, fn3, fn4, fn5, fn6, fn7, fn8, fn9, fn10, fn11, fn12, fn13, fn14, fn15, fn16, fn17, fn18, fn19, fn20, fn21, fn22],
 		desc: `Forest One Residency embodies a design philosophy centered on luxury, functionality, and distinction. Our approach merges modern aesthetics with practical elegance, ensuring our residence offers a harmonious blend of style and comfort. With its prime location, high rental demand, and contemporary amenities, this apartment is an ideal choice for savvy investors looking to expand their portfolio. 
 Expected Completion: September 2028. Flexible Off-Plan Payment Plans Available. Secure Your Unit with a 20% Deposit.`,
 		location: "Westlands, Nairobi, Kenya",

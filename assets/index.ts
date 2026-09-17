@@ -116,6 +116,29 @@ import orn4 from "./oakrise/n4.jpeg";
 import orn5 from "./oakrise/n5.jpeg";
 import orn6 from "./oakrise/n6.jpeg";
 
+import fn1 from "./ForestoneNew/f1.jpeg";
+import fn2 from "./ForestoneNew/f2.jpeg";
+import fn3 from "./ForestoneNew/f3.jpeg";
+import fn4 from "./ForestoneNew/f4.jpeg";
+import fn5 from "./ForestoneNew/f5.jpeg";
+import fn6 from "./ForestoneNew/f6.jpeg";
+import fn7 from "./ForestoneNew/f7.jpeg";
+import fn8 from "./ForestoneNew/f8.jpeg";
+import fn9 from "./ForestoneNew/f9.jpeg";
+import fn10 from "./ForestoneNew/f10.jpeg";
+import fn11 from "./ForestoneNew/f11.jpeg";
+import fn12 from "./ForestoneNew/f12.jpeg";
+import fn13 from "./ForestoneNew/f13.jpeg";
+import fn14 from "./ForestoneNew/f14.jpeg";
+import fn15 from "./ForestoneNew/f15.jpeg";
+import fn16 from "./ForestoneNew/f16.jpeg";
+import fn17 from "./ForestoneNew/f17.jpeg";
+import fn18 from "./ForestoneNew/f18.jpeg";
+import fn19 from "./ForestoneNew/f19.jpeg";
+import fn20 from "./ForestoneNew/f20.jpeg";
+import fn21 from "./ForestoneNew/f21.jpeg";
+import fn22 from "./ForestoneNew/f22.jpeg";
+
 export {
 	logo,
 	mo,
@@ -141,6 +164,7 @@ export {
 	bf3,
 	bf4,
 	bf5,
+	fn1, fn2, fn3, fn4, fn5, fn6, fn7, fn8, fn9, fn10, fn11, fn12, fn13, fn14, fn15, fn16, fn17, fn18, fn19, fn20, fn21, fn22,
 	am1,
 	am2,
 	am3,
